@@ -5,7 +5,7 @@ dans et autour de Charleville-Mézières</h1>
 Cette carte est réalisée bénévolement et en dehors de tout cadre associatif, partisan ni sous l’impulsion d’une
 quelconque collectivité locale.</br>
 Un fichier récapitulatif des données est diffusé en Open Data au format .csv pour que quiconque puisse ajouter sa pierre à l’édifice et pousser
-l’idée plus loin (à condition de rendre également ce travail public par la suite et de permettre au plus grand nombre d'y accéder au nom de l'intérêt général).</br>
+l’idée plus loin (à condition de rendre également ce travail public par la suite et de permettre ainsi au plus grand nombre d'y accéder au nom de l'intérêt général).</br>
 Sans aucun besoin de connaissances techniques, il n’est pas interdit de raturer ou d’annoter cette carte pour se l’approprier. Bien au contraire, c’est là tout l’objectif de sa diffusion libre ! (autrement cette carte serait toujours seulement affichée sur mon frigo sans que personne d'autre n'en ai pris connaissance). ;)</br>
 À titre d’information, il existe une association carolo qui promeut le vélo au quotidien dans les Ardennes :
 «Ma ville à vélo 08» (www.mavilleavelo08.fr).</br>
@@ -14,13 +14,13 @@ Réalisation @FlavienColsenet</br>
 Fond de carte OpenStreetMap</br>
 Temps indicatifs basés sur les données Geovélo réinterprétées</br>
 sur la base d'un vélo sans assitance et un rythme de pédalage ordinaire (vélotaf sans transpi !)</br>
-<h4>Gardez en tête que les temps sont inscrits ici à titre strictement indicatif.</H4>
+<h3>Gardez en tête que les temps sont inscrits ici à titre strictement indicatif.</H3>
 Les temps de parcours varient nécessairement suivant le cycliste, le vélo utilisé, l’itinéraire précis emprunté, le vent, le cadencement des feux, etc.
 Aucune modélisation, aussi précise soit-elle ne pourra remplacer votre vécu propre.
 <strong>À vélo, le moteur c’est vous !</strong>
 En revanche, cette carte vous permet de mieux appréhender les distances, d’obtenir en un coup d’oeil une première estimation des temps de trajet à vélo entre deux
 points de l’agglomération et de visualiser l'aire qu'il est possible d'arpenter facilement à vélo de la ville.
-<h4>Changements récents effectués</h4>
+<h3>Changements récents effectués</h3>
 <ol>
 <li>Meilleure prise en compte du différentiel de temps entre les sens de montée et de descente.</li>
 <li>Changements de certains segments pour une meilleure retranscription visuelle des itinéraires de voie verte en bord de Meuse et des temps de parcours spécifiques qui leurs sont associés.</li>
@@ -31,11 +31,7 @@ points de l’agglomération et de visualiser l'aire qu'il est possible d'arpent
 <li>La nécessité de limiter les distorsions (Si le temps de trajet d'un point A au point B est fiable, le temps d'un trajet additionné A>B>C>D multiplie les risques de décallage avec la réalité).</li></ul></li>
 <li>A la marge une vérification rapide des contrastes pour améliorer la lisibilité et l'accessibilité (cf: RGAA).</li>
 </ol>
-</br>
-</br>
-
-
-<h4>EN : Bike travel time map for the french city of Charleville-Mézières</h4>
+<h3>EN : Bike travel time map for the french city of Charleville-Mézières</h3>
 <strong>When you're biking, you're the engine, so get inspired and find your own pace !</strong></br>
 </br>
 This is a map showing a meshed network of bike travel segments over a set of points in the whereabouts of Charleville-Mézières.</br>
