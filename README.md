@@ -10,7 +10,7 @@ Sans aucun besoin de connaissances techniques, il n’est pas interdit de rature
 À titre d’information, il existe une association carolo qui promeut le vélo au quotidien dans les Ardennes :
 «Ma ville à vélo 08» (www.mavilleavelo08.fr).</br>
 </br>
-Réalisation @FlavienColsenet</br>
+Réalisation <a href="https://twitter.com/FlavienColsenet">@FlavienColsenet</a> </br>
 Fond de carte OpenStreetMap</br>
 Temps indicatifs basés sur les données Geovélo réinterprétées</br>
 sur la base d'un vélo sans assitance et un rythme de pédalage ordinaire (vélotaf sans transpi !)</br>
