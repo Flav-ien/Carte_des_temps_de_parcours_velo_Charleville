@@ -1,6 +1,6 @@
 <h1>La carte des temps de parcours à vélo
 dans et autour de Charleville-Mézières</h1>
-<strong>À vélo, le moteur c’est vous. Alors, inspirez-vous et trouvez votre rythme !</strong></br>
+<strong>À vélo, le moteur c’est vous. Alors inspirez-vous et trouvez votre rythme !</strong></br>
 </br>
 Cette carte est réalisée bénévolement et en dehors de tout cadre associatif, partisan ni sous l’impulsion d’une
 quelconque collectivité locale.</br>
