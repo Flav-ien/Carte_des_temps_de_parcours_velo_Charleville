@@ -43,7 +43,7 @@ If you lack technical knowledge, no worries. Feel free to cross out the map and 
 Keep in mind those time segments are given as indications only.
 They are undoubtably affected by whom the cyclist is, the bike used to make the journey, the precise route taken, the wind, the pace of traffic lights, etc.</br> 
 </br>
-Made by @FlavienColsenet.</br>
+Made by <a href="https://twitter.com/FlavienColsenet">@FlavienColsenet</a> </br>
 Based on OpenStreetMap, indicative timetables extracted from GéoVélo and adjusted with common sense.</br>
 
 
