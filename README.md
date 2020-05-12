@@ -31,7 +31,7 @@ points de l’agglomération et de visualiser l'aire qu'il est possible d'arpent
 <li>La nécessité de limiter les distorsions (Si le temps de trajet d'un point A au point B est fiable, le temps d'un trajet additionné A>B>C>D multiplie les risques de décallage avec la réalité).</li></ul></li>
 <li>A la marge une vérification rapide des contrastes pour améliorer la lisibilité et l'accessibilité (cf: RGAA).</li>
 <li>Et bien sûr correction de coquilles multiples, ajout d'une légende et toutes ces petites bricoles manquantes dans la première version.</li>
-<li><strong>Dernière mise à jour du mardi : une version de la carte personnalisable à apposer au verso de la carte des temps de parcours ou utilisable indépendamment. Chacun peut maintenant choisir ses points, ajouter son domicile, ses points de repères personnalisés, voire adapter les temps indiqués sur la carte si ceux-ci ne correspondent pas à son rythme de pédalage!</strong></li>
+<li><font color="green">Dernière mise à jour du mardi : une version de la carte personnalisable à apposer au verso de la carte des temps de parcours ou utilisable indépendamment. Chacun peut maintenant choisir ses points, ajouter son domicile, ses points de repères personnalisés, voire adapter les temps indiqués sur la carte si ceux-ci ne correspondent pas à son rythme de pédalage !</font></li>
 </ol>
 <h3>EN : Bike travel time map for the french city of Charleville-Mézières</h3>
 <strong>When you're biking, you're the engine, so get inspired and find your own pace !</strong></br>
